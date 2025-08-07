@@ -5,7 +5,7 @@ order: 3
 ---
 <h2 style="text-align:center;">Economic Data Analysis</h2>
 
-<img src="/images/the-purveyor.png" style="display:block; margin:auto;" width="600" />
+<img src="/images/EDA.jpg" style="display:block; margin:auto;" width="600" />
 
 
 <!-- <p align="center">
